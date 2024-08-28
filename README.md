@@ -40,7 +40,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository**:
    ```bash
-   git clone https://github.com/sidd1018/irisflower.git
+   git clone https://github.com/sid1018/irisflower.git
    ```
 
 2. **Change directory**:
